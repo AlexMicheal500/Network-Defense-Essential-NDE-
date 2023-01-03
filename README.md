@@ -18,5 +18,6 @@
 9. Then go to the file manager, Rename wp-content and delete all the files execpt the archive file, wp-pcontent, wp-config and our newly uploaded wordpress file.
 10. Extract the wordpress file, go into it and select all files excpt the wp-content and move them to the file manager.
 11. Thyen we rename the wp-content in the file manager to iyts original name.
-12. then clean up by removing files like the archive
+12. then clean up by removing files like the archive.
+
 Visit https://www.youtube.com/watch?v=vI1RFTcN4AU&t=148s to learn more.
